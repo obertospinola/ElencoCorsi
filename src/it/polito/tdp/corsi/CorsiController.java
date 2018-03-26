@@ -23,7 +23,7 @@ public class CorsiController {
 
     @FXML
     void handleCerca(ActionEvent event) {
-
+    		
     }
 
     @FXML // This method is called by the FXMLLoader when initialization is complete
